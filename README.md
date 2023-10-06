@@ -17,3 +17,6 @@ User-Centric Design: Crafted with precision using Java and XML, our application 
 
 At the core of Easy Chat Deputy lies the fusion of human ingenuity and AI prowess, made possible by the integration of OpenAI's GPT-3.5 API. This transformative technology empowers our chatbot to not only provide intelligent responses but to tailor them specifically to your unique needs. Bid adieu to generic answers and embrace conversations that are engaging and profoundly informative.
 
+![1694494214220](https://github.com/ArunMandava3030/chatgpt-clone-chatbot/assets/94468094/c8e6f66c-2712-410b-899d-5604301421b8)
+
+
